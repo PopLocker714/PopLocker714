@@ -7,7 +7,7 @@
 
 Frontend/Backend Developer from Voronezh 🗽
 
-- Now I'm looking for a job
+- I'm currently working as a freelancer
 - I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
 - You can also visit my **[Portfolio Web-Site](https://ilya-kiselev-portfolio.vercel.app)**
 - Let's talk more in **[Telegram](https://t.me/Poploker)**
